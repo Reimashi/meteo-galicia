@@ -1,0 +1,15 @@
+{
+  "name": "marusela",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aitor González Fernández <reimashi@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.67.0"
+  }
+}
